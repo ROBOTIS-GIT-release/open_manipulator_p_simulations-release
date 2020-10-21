@@ -1,1 +1,1 @@
-{"base": "e107446", "parent": "debian/kinetic/open_manipulator_p_gazebo", "previous": "4f0d23a", "trim": "", "trimbase": ""}
+{"trim": "", "base": "cd57fa7", "trimbase": "", "parent": "debian/kinetic/open_manipulator_p_gazebo", "previous": "60ef0e4"}

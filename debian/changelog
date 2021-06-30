@@ -1,0 +1,16 @@
+ros-noetic-open-manipulator-p-simulations (1.0.1-1buster) buster; urgency=high
+
+  * Noetic support
+  * Remove dependency of open_manipulator_p package
+  * Contributors: Will Son
+
+ -- Will Son <willson@robotis.com>  Mon, 28 Jun 2021 15:00:00 -0000
+
+ros-noetic-open-manipulator-p-simulations (1.0.0-1buster) buster; urgency=high
+
+  * First release of the open_manipulator_p_simulations stack
+  * Contributors: Ryan Shim, YongHo-Na, HyeJong KIM
+
+ -- Will Son <willson@robotis.com>  Wed, 14 Oct 2020 15:00:00 -0000
+
+

@@ -1,3 +1,28 @@
+## open_manipulator_p_simulations (noetic) - 1.0.1-1
+
+The packages in the `open_manipulator_p_simulations` repository were released into the `noetic` distro by running `/usr/bin/bloom-release open_manipulator_p_simulations -t noetic -r noetic --edit` on `Wed, 30 Jun 2021 08:42:10 -0000`
+
+These packages were released:
+- `open_manipulator_p_gazebo`
+- `open_manipulator_p_simulations`
+
+Version of package(s) in repository `open_manipulator_p_simulations`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/open_manipulator_p_simulations.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## open_manipulator_p_simulations (melodic) - 1.0.0-3
 
 The packages in the `open_manipulator_p_simulations` repository were released into the `melodic` distro by running `/usr/bin/bloom-release open_manipulator_p_simulations -t melodic -r melodic` on `Wed, 21 Oct 2020 01:04:20 -0000`
